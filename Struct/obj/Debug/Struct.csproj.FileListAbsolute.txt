@@ -1,0 +1,6 @@
+c:\users\зейтынб\documents\visual studio 2017\Projects\FileSystem\Struct\bin\Debug\Struct.exe.config
+c:\users\зейтынб\documents\visual studio 2017\Projects\FileSystem\Struct\bin\Debug\Struct.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\FileSystem\Struct\bin\Debug\Struct.pdb
+c:\users\зейтынб\documents\visual studio 2017\Projects\FileSystem\Struct\obj\Debug\Struct.csprojResolveAssemblyReference.cache
+c:\users\зейтынб\documents\visual studio 2017\Projects\FileSystem\Struct\obj\Debug\Struct.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\FileSystem\Struct\obj\Debug\Struct.pdb
